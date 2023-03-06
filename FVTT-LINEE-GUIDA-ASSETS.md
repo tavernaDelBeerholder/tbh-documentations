@@ -5,14 +5,6 @@
 
 # Documenti e risorse utili per iniziare (ancora in scrittura, i documenti potrebbero variare)
 
-### Documento di preparazione a FoundryVTT per GM e Player
-
-[LINK PDF](./wiki/docs/Preparazione_a_foundryvtt.2021-09-11.pdf)
-
-### Documento per la gestione del background customizzato (di solito per giocatori esperti che vogliono arricchire il proprio personaggio)
-
-[LINK PDF](./wiki/docs/Backstory_e_dettagli_del_personaggio.2020-09-11.pdf)
-
 ### I moduli testati e consigliati per FoundryVTT (per adesso secondo 4535992 poi dovremo decidere insieme)
 
 [LINK LISTA MODULI by 4535992](https://github.com/tavernaDelBeerholder/tbh-documentations/blob/master/FVTT-MODULESv4.md)
@@ -204,11 +196,6 @@ Sono quelli consigliati e testati per i vari scopi.
     - Gratuito
     - Online
     - Il browser più performante testato con foundryvtt e mobile utile per chi ha pc o telefoni un pò datati riduce di molto la banda utilizzata dai browser classici
-
-- [5etools](https://5e.tools/) (Consigliato)
-    - Gratuito
-    - Online
-    - L'archivio de facto della quinta edizione di D&D, comprensivo di tutte le risorse ufficiali e non.
 
 ### Gestione della campagna
 
