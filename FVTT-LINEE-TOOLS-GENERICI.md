@@ -6,6 +6,10 @@ Sono quelli consigliati e testati per i vari scopi.
 
 ### Gestione delle immagini
 
+- [photofunia](https://photofunia.com/effects/pencil_drawing)
+    - Gratuito
+	- Conversione dei file immagine in un'antiquato stile a matita ottimo per ambienti fantasy e poster da ricercato
+
 - [Paint.net](https://www.getpaint.net/) (Consigliato)
     - Gratuito
 	- Conversione dei file immagine nei vari formati (esempio .webp)
