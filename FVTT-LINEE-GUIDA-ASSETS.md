@@ -1,4 +1,4 @@
-# [Lista dei moduli sempre aggiornati](https://github.com/p4535992/taters/blob/master/foundryvtt/FVTT-MODULESv4.md)
+# [Lista dei moduli sempre aggiornati](https://github.com/tavernaDelBeerholder/tbh-documentations/blob/master/FVTT-MODULESv4.md)
 
 
 # Linee guida per una gestione furba degli assets su FoundryVTT
@@ -15,7 +15,7 @@
 
 ### I moduli testati e consigliati per FoundryVTT (per adesso secondo 4535992 poi dovremo decidere insieme)
 
-[LINK LISTA MODULI by 4535992](https://github.com/p4535992/taters/blob/master/foundryvtt/FVTT-MODULESv4.md)
+[LINK LISTA MODULI by 4535992](https://github.com/tavernaDelBeerholder/tbh-documentations/blob/master/FVTT-MODULESv4.md)
 
 # Linee guida degli assets
 
