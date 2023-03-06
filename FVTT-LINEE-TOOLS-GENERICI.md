@@ -6,6 +6,10 @@ Sono quelli consigliati e testati per i vari scopi.
 
 ### Gestione delle immagini
 
+- [Seamless Pattern Generator](https://www.laurentvw.com/tools/seamless-pattern-generator/)
+    - Gratuito
+	- Ottimo tool per crare un tile ripetitivo di immagini random da un'immagine, pensa a un mattone con cui vuoi creare una strada di mattoni in modo random
+
 - [photofunia](https://photofunia.com/effects/pencil_drawing)
     - Gratuito
 	- Conversione dei file immagine in un'antiquato stile a matita ottimo per ambienti fantasy e poster da ricercato
